@@ -1,0 +1,15 @@
+C:\Users\Jaya\Desktop\Dot Net\new project\Company_management\bin\Debug\Company_management.exe
+C:\Users\Jaya\Desktop\Dot Net\new project\Company_management\bin\Debug\Company_management.pdb
+C:\Users\Jaya\Desktop\Dot Net\new project\Company_management\obj\x86\Debug\Company_management.Form1.resources
+C:\Users\Jaya\Desktop\Dot Net\new project\Company_management\obj\x86\Debug\Company_management.Properties.Resources.resources
+C:\Users\Jaya\Desktop\Dot Net\new project\Company_management\obj\x86\Debug\Company_management.csproj.GenerateResource.Cache
+C:\Users\Jaya\Desktop\Dot Net\new project\Company_management\obj\x86\Debug\Company_management.exe
+C:\Users\Jaya\Desktop\Dot Net\new project\Company_management\obj\x86\Debug\Company_management.pdb
+C:\Users\Jaya\Desktop\Dot Net\new project\Company_management\obj\x86\Debug\Company_management.login.resources
+C:\Users\Jaya\Desktop\Dot Net\new project\Company_management\obj\x86\Debug\Company_management.products.resources
+C:\Users\Jaya\Desktop\Dot Net\new project\Company_management\obj\x86\Debug\Company_management.contact.resources
+C:\Users\Jaya\Desktop\Dot Net\new project\Company_management\bin\Debug\MySql.Data.dll
+C:\Users\Jaya\Desktop\Dot Net\new project\Company_management\bin\Debug\MySqlBackup.dll
+C:\Users\Jaya\Desktop\Dot Net\new project\Company_management\obj\x86\Debug\Company_management.csprojResolveAssemblyReference.cache
+C:\Users\Jaya\Desktop\Dot Net\new project\Company_management\obj\x86\Debug\Company_management.details.resources
+C:\Users\Jaya\Desktop\Dot Net\new project\Company_management\obj\x86\Debug\Company_management.add_details.resources

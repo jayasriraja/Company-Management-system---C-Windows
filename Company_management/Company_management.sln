@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Company_management", "Company_management.csproj", "{BCE0593F-4FA5-4F91-8B0C-6B5AB3BFE891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE0593F-4FA5-4F91-8B0C-6B5AB3BFE891}.Debug|x86.ActiveCfg = Debug|x86
+		{BCE0593F-4FA5-4F91-8B0C-6B5AB3BFE891}.Debug|x86.Build.0 = Debug|x86
+		{BCE0593F-4FA5-4F91-8B0C-6B5AB3BFE891}.Release|x86.ActiveCfg = Release|x86
+		{BCE0593F-4FA5-4F91-8B0C-6B5AB3BFE891}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
