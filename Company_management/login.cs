@@ -258,19 +258,18 @@ namespace Company_management
         {
             //argument (from email Address,To email Address)
        
-            MailMessage mail = new MailMessage("jayasrigovindarajan16@gmail.com", email);
+            MailMessage mail = new MailMessage("<Enter E-Mail id>", email);
             mail.Subject = "Log in OTP for Tech Solutions Private Ltd.";
             mail.Body = "Welcome.. "+uname+"...."+"OTP : " +otpm;
            // mail.Body = "Welcome.." + uname;
-            mail.IsBodyHtml = true;
-           // mail.Attachments.Add(new Attachment("C:\\keen\\hello.pdf"));// this is for any attachments..  
+            mail.IsBodyHtml = true; 
             SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587);
             smtp.Credentials = new NetworkCredential()
             {
                 //email ID
-                UserName = "jayasrigovindarajan16@gmail.com",
+                UserName = "<Enter E-Mail id>",
                 //email ID password
-                Password = "mkwr bdcj glzw rzly"
+                Password = "<Enter two step verification password>"
             };
             smtp.EnableSsl = true;
             smtp.Send(mail);
